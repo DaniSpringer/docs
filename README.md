@@ -10,7 +10,7 @@
 - [LinkedIn](https://www.linkedin.com/in/imdanielspringer/)
 
 # Contact
-- [Send email](mailto:musicbyds@icloud.com)
+- [Send email: musicbyds@icloud.com](mailto:musicbyds@icloud.com)
 
 # License
 Copyright © 2019 Daniel Springer. All rights reserved.
