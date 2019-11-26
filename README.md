@@ -5,7 +5,7 @@
 # Links & Resources
 
 - [Live apps](https://itunes.apple.com/us/developer/daniel-springer/id1402417666?mt=8)
-- [Resume](https://github.com/DaniSpringer/docs/tree/master/Resume)
+- [Resume](https://github.com/DaniSpringer/docs/tree/master/resume)
 - [GitHub](https://github.com/DaniSpringer)
 - [LinkedIn](https://www.linkedin.com/in/imdanielspringer/)
 
