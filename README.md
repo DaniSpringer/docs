@@ -13,4 +13,4 @@
 - [Send email: musicbyds@icloud.com](mailto:musicbyds@icloud.com)
 
 # License
-Copyright © 2019 Daniel Springer. All rights reserved.
+Copyright © 2020 Daniel Springer. All rights reserved.
