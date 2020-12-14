@@ -5,8 +5,8 @@ So, uhm, for our privacy policy, well...
 
 Whew. That was easy.
 
-# Contact
+## Contact
 - Email: dani.springer@icloud.com
 
-# License
+## License
 Copyright © 2020 Daniel Springer. All rights reserved.
