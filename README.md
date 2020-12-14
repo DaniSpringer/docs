@@ -2,6 +2,7 @@
 
 So, uhm, for our privacy policy, well...
 - ColorFull, Prime and Guess do not collect data.
+
 Whew. That was easy.
 
 # Contact
