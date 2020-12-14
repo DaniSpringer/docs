@@ -1,4 +1,4 @@
-# Privacy Policy for [iOS Apps][https://apps.apple.com/us/developer/daniel-springer/id1402417666] by Daniel Springer
+# Privacy Policy for [iOS Apps]https://apps.apple.com/us/developer/daniel-springer/id1402417666 by Daniel Springer
 
 So, uhm, for our privacy policy, well...
 - ColorFull, Prime and Guess do not collect data.
